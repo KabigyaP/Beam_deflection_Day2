@@ -1,0 +1,15 @@
+{
+    "E": 200000000000,
+    "I": 0.000008,
+    "spans": [2, 3, 4],
+    "point_loads": [1000, 2000, 3000],
+    "uniform_loads": [500, 1000, 1500],
+    "load_position_fraction": 0.3,
+    "beam_cases": [
+        "ss_center",
+        "ss_off_center",
+        "ss_udl",
+        "cantilever_point",
+        "cantilever_udl"
+    ]
+}

@@ -1,0 +1,1 @@
+This is my work of second day of INternship at AnK, this program provides you with the deflection of various kinds of beams under various conditions. To use this install the whole folder and make the files in te same folder, update the'config.json' in order to keep your data and the program shall run smoothly. 
